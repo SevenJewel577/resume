@@ -1,8 +1,10 @@
 /**
  * Bootstrap overrides
  */
-body {
+body 
+{
   text-align: center;
+  background-image: url("images/BACKGROUND.jpg")
 }
 .container {
   /* Set max page width */
